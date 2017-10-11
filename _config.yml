@@ -16,7 +16,7 @@
 title: Tangible Analytics
 email: jonathan@tangibleanalytics.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Tangible Analytics is a data science software consultancy specializing 
+  Tangible Analytics is a data science consultancy specializing
   in data analytics, data visualization, and machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.tangibleanalytics.com" # the base hostname & protocol for your site, e.g. http://example.com
